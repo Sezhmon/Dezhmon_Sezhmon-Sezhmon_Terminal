@@ -22,7 +22,7 @@ To get started, it is recommended to type the `/help` command to see the list of
 This project is currently an individual and proprietary effort. However, you might be able to join and contribute in the future.
 
 
-https://sezhmon.github.io/Sezhmon_Site/
+Sezhmon Site: https://sezhmon.github.io/Sezhmon_Site/
 
 ## License
 This project is built under the Apache 2.0 License. For the full license text, please refer to the `LICENSE.txt` file.
