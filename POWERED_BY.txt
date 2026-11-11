@@ -1,0 +1,2 @@
+Powerd By: python3==3.11.6,hostpython3==3.11.6,kivy==2.3.0,pillow==10.4.0,plyer
+orientation = portrait
