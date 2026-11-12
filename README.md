@@ -7,7 +7,7 @@ Sezhmon Terminal is a bridge between ancient eras and modernity, spiced up with 
 I have a deep passion for CLI (Command Line Interface) tools, which inspired me to create an environment where you can experience a terminal directly on your Android phone. It aims to serve as a starting point for newcomers to the command-line world, and perhaps even a golden stepping stone for larger projects.
 
 - **Design Language:** Python
-- **Libraries and Frameworks:** Listed in the `NOTICE.txt` file
+- **Libraries and Frameworks:** Listed in the `POWERED_BY.txt` file
 - **Target Operating System:** Android
 
 This library is still in its infancy and doesn't have many features yet, but I truly believe it deserves at least a try. For now, you can create folders and files directly within the terminal, modify file contents, and play a few super-simple games.
